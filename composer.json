@@ -1,0 +1,5 @@
+{
+    "require": {
+        "wondeltd/php-client": "^3.1"
+    }
+}
